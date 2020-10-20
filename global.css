@@ -1,0 +1,154 @@
+html {
+    background-color: rgb(255, 255, 255);
+    -webkit-font-smoothing: antialiased;
+}
+
+.footer {
+    text-align: center;
+}
+
+body {
+    background: #fff;
+    color: #545454;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 2em 2em 4em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #222;
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+h2 {
+    margin-top: 1.3em;
+    font-size: 30px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;    
+    text-align: center;
+    color: rgb(3, 186, 252);
+}
+
+.center-description {
+    text-align: center;
+    font-size: 20px;
+}
+
+a {
+    color: #0083e8;
+    text-decoration: none;
+}
+
+b, strong {
+    font-weight: 600;
+}
+
+samp {
+    display: none;
+}
+
+#faoc {
+    float: left
+}
+
+.links {
+    text-decoration: none;
+    text-align: center;
+}
+
+.description {
+    font-size: 20px;
+    text-align: justify;
+}
+
+.register {
+    text-align: center;
+    font-size: 20px;
+}
+
+.h2link {
+    color: #0083e8;
+    text-align: center;
+}
+
+.Center {
+    text-align: center;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 25px;
+}
+  
+.sub-sub-title {
+    text-align: center;
+    font-size: 25px;
+}
+
+#mask {
+    float: left;
+}
+
+.column {
+  float: left;    
+  width: 32.333333333333333333%;
+  padding: 5px;  
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.pro {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+
+}
+
+.center-p {
+    text-align: center;
+}
+
+.puss {
+    float: left;
+}
+
+.nav-style {
+    display: inline;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+    font-size: 14.95px;
+}
+
+.center-element {
+    text-align: center;
+}
+
+.charity-images {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bluetext {
+    color: rgb(3, 186, 252);
+    font-size: 30px;
+    text-align: center;
+}
+
+a:hover {
+    color: rgb(237, 54, 17);
+}
